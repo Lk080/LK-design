@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lk080.github.io/LK-webdesign/sitemap.xml
+Sitemap: https://lkwebdesign.be/sitemap.xml
